@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\lENOVO\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\disklrucache\4.0.0-RC1\1b4bba8f8d3df8db064c875c043c01e9ca3cdee9\disklrucache-4.0.0-RC1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="1b4bba8f8d3df8db064c875c043c01e9ca3cdee9">
+        <dex dex="C:\Users\lENOVO\AndroidStudioProjects\FetchGroupListWithImage\app\build\intermediates\pre-dexed\debug\disklrucache-4.0.0-RC1_e2dcffa15db266c07ea0a0fd70459df686e31e3c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lENOVO\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\glide\4.0.0-RC1\7baec7d5132e7343100a99630a56a6584a33addc\glide-4.0.0-RC1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="7baec7d5132e7343100a99630a56a6584a33addc">
+        <dex dex="C:\Users\lENOVO\AndroidStudioProjects\FetchGroupListWithImage\app\build\intermediates\pre-dexed\debug\glide-4.0.0-RC1_2696dba874c7eb24d4bb5b7ff3357e6c6d912008.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lENOVO\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\annotations\4.0.0-RC1\84c524dcd1a3088edd5560a8ac176eae1317f770\annotations-4.0.0-RC1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="84c524dcd1a3088edd5560a8ac176eae1317f770">
+        <dex dex="C:\Users\lENOVO\AndroidStudioProjects\FetchGroupListWithImage\app\build\intermediates\pre-dexed\debug\annotations-4.0.0-RC1_9804ff4d92b24e6f9c11e4c2e481562dcb67a059.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lENOVO\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\gifdecoder\4.0.0-RC1\c425e31eda1069f978a0e823ad50e567ab422656\gifdecoder-4.0.0-RC1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="c425e31eda1069f978a0e823ad50e567ab422656">
+        <dex dex="C:\Users\lENOVO\AndroidStudioProjects\FetchGroupListWithImage\app\build\intermediates\pre-dexed\debug\gifdecoder-4.0.0-RC1_fd8ebbeb5e5170438ab9903c758c5f7bea3c687e.jar" />
+    </item>
+
+</items>
